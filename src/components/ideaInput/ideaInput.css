@@ -1,0 +1,18 @@
+form{
+    display: flex;
+position: absolute;
+    top: 20%;
+left: 50%;
+    transform: translateX(-50%);
+}
+label{
+    display: flex;
+    flex-direction: column;
+    margin: 12px 0;
+}
+
+input[type="submit"]{
+    margin:12px 0;
+    height: 50px;
+
+}
